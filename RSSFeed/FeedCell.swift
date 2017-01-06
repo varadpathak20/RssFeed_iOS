@@ -24,5 +24,7 @@ class FeedCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
+    
+    // This is just a long comment for testing my git skills and geting my hands on.
 
 }
